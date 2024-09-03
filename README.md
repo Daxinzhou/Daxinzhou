@@ -1,16 +1,17 @@
-## Hi there 👋
+# 欢迎大家访问我的主页
 
-<!--
-**Daxinzhou/Daxinzhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  自我介绍
 
-Here are some ideas to get you started:
+我是福州大学计算机与大数据学院的一名大三年级学生，所学专业是计算机科学与技术应用方向。我非常热爱软件工程这门学科，也对目前很火的人工智能很感兴趣，我相信人工智能将是未来的发展趋势。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 具备技能
+掌握c,c++,汇编等语言。
+
+## 想法
+来到Github后，我希望可以学习有关软件工程和人工智能等等专业相关知识，丰富自己的技能点，成为一名合格的专业人才。
+
+## 规划
+未来三年我将好好学习天天向上。
+
+## 联系方式
+[Email](3106097215@qq.com) / [Github](https://github.com/Daxinzhou)
