@@ -11,7 +11,7 @@
 来到Github后，我希望可以学习有关软件工程和人工智能等等专业相关知识，丰富自己的技能点，成为一名合格的专业人才。
 
 ## 规划
-未来三年我将好好学习天天向上。
+Just let nature take its course.
 
 ## 联系方式
 [Email](3106097215@qq.com) / [Github](https://github.com/Daxinzhou)
