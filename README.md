@@ -1,5 +1,5 @@
 ##  自我介绍
-I'm SB.
+I AM SB
 
 ## 规划
 Just let nature take its course.
