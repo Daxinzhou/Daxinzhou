@@ -1,6 +1,5 @@
 ##  自我介绍
-
-我是福州大学计算机科学与技术专业的大三学生。
+I'm SB.
 
 ## 规划
 Just let nature take its course.
